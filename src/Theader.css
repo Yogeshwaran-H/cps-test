@@ -1,0 +1,11 @@
+.Theader{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+
+.Theader>div{
+    background-color:aquamarine;
+    padding: 2px 10px;
+}
